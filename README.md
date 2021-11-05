@@ -27,3 +27,8 @@ https://colab.research.google.com/drive/1WFxlpL-jqz1UfXGg7PkLGiO0hv7ypNKw?usp=sh
 
 https://github.com/freedomtowin/spiking-network
 
+5. PMT and FGPA Simulation
+
+2-Photon Microscope Image Acquisition - PMT and FGPA Simulation
+
+https://freedomtowin.github.io/2017/01/20/Image-Acquisition-FPGA-Simulation.html 
